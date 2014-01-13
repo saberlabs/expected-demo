@@ -1,4 +1,4 @@
-node_modules/
-*/dep/
+node_modules
+*.swp
 .DS_Store
-*.log
+*/dep
